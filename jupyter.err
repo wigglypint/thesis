@@ -1,0 +1,51 @@
+[I 2025-10-26 14:37:55.266 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-26 14:37:55.268 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-26 14:37:55.271 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-26 14:37:55.273 ServerApp] notebook | extension was successfully linked.
+[I 2025-10-26 14:37:55.274 ServerApp] Writing Jupyter server cookie secret to /dcs/23/u2200504/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2025-10-26 14:37:55.628 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-10-26 14:37:55.664 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-26 14:37:55.665 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-26 14:37:55.666 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-26 14:37:55.672 LabApp] JupyterLab extension loaded from /dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/jupyterlab
+[I 2025-10-26 14:37:55.672 LabApp] JupyterLab application directory is /dcs/23/u2200504/thesis/envthesis/share/jupyter/lab
+[I 2025-10-26 14:37:55.672 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-26 14:37:55.711 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-26 14:37:55.714 ServerApp] notebook | extension was successfully loaded.
+[I 2025-10-26 14:37:55.714 ServerApp] Serving notebooks from local directory: /dcs/23/u2200504
+[I 2025-10-26 14:37:55.714 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2025-10-26 14:37:55.714 ServerApp] http://tiger-01:11804/tree?token=9a7e2fa034cf57d3305b33d22056ea5ff16e326745a5e957
+[I 2025-10-26 14:37:55.714 ServerApp]     http://127.0.0.1:11804/tree?token=9a7e2fa034cf57d3305b33d22056ea5ff16e326745a5e957
+[I 2025-10-26 14:37:55.714 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-10-26 14:37:55.720 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///dcs/23/u2200504/.local/share/jupyter/runtime/jpserver-3737292-open.html
+    Or copy and paste one of these URLs:
+        http://tiger-01:11804/tree?token=9a7e2fa034cf57d3305b33d22056ea5ff16e326745a5e957
+        http://127.0.0.1:11804/tree?token=9a7e2fa034cf57d3305b33d22056ea5ff16e326745a5e957
+[I 2025-10-26 14:37:55.914 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-10-26 14:38:38.944 ServerApp] Kernel started: 533b55fc-5920-4ca2-951c-ebb517d40d95
+[I 2025-10-26 14:38:39.480 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
+[W 2025-10-26 14:38:39.481 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-26 14:38:39.568 ServerApp] Starting buffering for 533b55fc-5920-4ca2-951c-ebb517d40d95:cea71820-310a-4890-a808-f7e0f6fbfd08
+[I 2025-10-26 14:38:39.568 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
+[I 2025-10-26 14:38:39.654 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
+[I 2025-10-26 14:38:44.712 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
+[I 2025-10-26 14:40:38.835 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 14:42:39.071 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 14:44:39.254 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 14:46:39.480 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 14:52:40.720 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 14:52:58.525 ServerApp] Kernel interrupted: 533b55fc-5920-4ca2-951c-ebb517d40d95
+Exception ignored on calling ctypes callback function <bound method DataIter._next_wrapper of <xgboost.data.SingleBatchInternalIter object at 0x7f11dcbf6c50>>:
+Traceback (most recent call last):
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/xgboost/core.py", line 685, in _next_wrapper
+[I 2025-10-26 14:53:07.635 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 14:53:23.934 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 14:56:33.103 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
+[I 2025-10-26 14:56:40.767 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
+[I 2025-10-26 14:57:24.138 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 18:00:18.329 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
+[I 2025-10-26 18:01:58.959 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.

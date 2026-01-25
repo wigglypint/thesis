@@ -1,51 +1,91 @@
-[I 2025-10-26 14:37:55.266 ServerApp] jupyter_lsp | extension was successfully linked.
-[I 2025-10-26 14:37:55.268 ServerApp] jupyter_server_terminals | extension was successfully linked.
-[I 2025-10-26 14:37:55.271 ServerApp] jupyterlab | extension was successfully linked.
-[I 2025-10-26 14:37:55.273 ServerApp] notebook | extension was successfully linked.
-[I 2025-10-26 14:37:55.274 ServerApp] Writing Jupyter server cookie secret to /dcs/23/u2200504/.local/share/jupyter/runtime/jupyter_cookie_secret
-[I 2025-10-26 14:37:55.628 ServerApp] notebook_shim | extension was successfully linked.
-[I 2025-10-26 14:37:55.664 ServerApp] notebook_shim | extension was successfully loaded.
-[I 2025-10-26 14:37:55.665 ServerApp] jupyter_lsp | extension was successfully loaded.
-[I 2025-10-26 14:37:55.666 ServerApp] jupyter_server_terminals | extension was successfully loaded.
-[I 2025-10-26 14:37:55.672 LabApp] JupyterLab extension loaded from /dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/jupyterlab
-[I 2025-10-26 14:37:55.672 LabApp] JupyterLab application directory is /dcs/23/u2200504/thesis/envthesis/share/jupyter/lab
-[I 2025-10-26 14:37:55.672 LabApp] Extension Manager is 'pypi'.
-[I 2025-10-26 14:37:55.711 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2025-10-26 14:37:55.714 ServerApp] notebook | extension was successfully loaded.
-[I 2025-10-26 14:37:55.714 ServerApp] Serving notebooks from local directory: /dcs/23/u2200504
-[I 2025-10-26 14:37:55.714 ServerApp] Jupyter Server 2.17.0 is running at:
-[I 2025-10-26 14:37:55.714 ServerApp] http://tiger-01:11804/tree?token=9a7e2fa034cf57d3305b33d22056ea5ff16e326745a5e957
-[I 2025-10-26 14:37:55.714 ServerApp]     http://127.0.0.1:11804/tree?token=9a7e2fa034cf57d3305b33d22056ea5ff16e326745a5e957
-[I 2025-10-26 14:37:55.714 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 2025-10-26 14:37:55.720 ServerApp] 
+[I 2026-01-25 12:24:22.474 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-25 12:24:22.477 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-01-25 12:24:22.480 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-25 12:24:22.482 ServerApp] notebook | extension was successfully linked.
+[I 2026-01-25 12:24:22.983 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-01-25 12:24:23.032 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-25 12:24:23.034 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-25 12:24:23.035 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-25 12:24:23.042 LabApp] JupyterLab extension loaded from /dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/jupyterlab
+[I 2026-01-25 12:24:23.042 LabApp] JupyterLab application directory is /dcs/23/u2200504/thesis/envthesis/share/jupyter/lab
+[I 2026-01-25 12:24:23.043 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-25 12:24:23.104 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-25 12:24:23.107 ServerApp] notebook | extension was successfully loaded.
+[I 2026-01-25 12:24:23.107 ServerApp] Serving notebooks from local directory: /dcs/23/u2200504
+[I 2026-01-25 12:24:23.107 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-25 12:24:23.107 ServerApp] http://tiger-03:11804/tree?token=45ac3401a644ec180cdf5c2e97858d087feaa3aed327cc52
+[I 2026-01-25 12:24:23.107 ServerApp]     http://127.0.0.1:11804/tree?token=45ac3401a644ec180cdf5c2e97858d087feaa3aed327cc52
+[I 2026-01-25 12:24:23.107 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-01-25 12:24:23.115 ServerApp] 
     
     To access the server, open this file in a browser:
-        file:///dcs/23/u2200504/.local/share/jupyter/runtime/jpserver-3737292-open.html
+        file:///dcs/23/u2200504/.local/share/jupyter/runtime/jpserver-734324-open.html
     Or copy and paste one of these URLs:
-        http://tiger-01:11804/tree?token=9a7e2fa034cf57d3305b33d22056ea5ff16e326745a5e957
-        http://127.0.0.1:11804/tree?token=9a7e2fa034cf57d3305b33d22056ea5ff16e326745a5e957
-[I 2025-10-26 14:37:55.914 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
-[I 2025-10-26 14:38:38.944 ServerApp] Kernel started: 533b55fc-5920-4ca2-951c-ebb517d40d95
-[I 2025-10-26 14:38:39.480 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
-[W 2025-10-26 14:38:39.481 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+        http://tiger-03:11804/tree?token=45ac3401a644ec180cdf5c2e97858d087feaa3aed327cc52
+        http://127.0.0.1:11804/tree?token=45ac3401a644ec180cdf5c2e97858d087feaa3aed327cc52
+[I 2026-01-25 12:24:23.337 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-01-25 12:27:24.329 ServerApp] Kernel started: 2399978d-5178-4cf2-964d-b4d24bb606d3
+[I 2026-01-25 12:27:24.336 ServerApp] Kernel started: bd3133ce-1053-403f-a234-e172f6fc3c0d
+[I 2026-01-25 12:27:25.049 ServerApp] Connecting to kernel 2399978d-5178-4cf2-964d-b4d24bb606d3.
+[W 2026-01-25 12:27:25.050 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
     Setting websocket_ping_timeout=30000
-[I 2025-10-26 14:38:39.568 ServerApp] Starting buffering for 533b55fc-5920-4ca2-951c-ebb517d40d95:cea71820-310a-4890-a808-f7e0f6fbfd08
-[I 2025-10-26 14:38:39.568 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
-[I 2025-10-26 14:38:39.654 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
-[I 2025-10-26 14:38:44.712 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
-[I 2025-10-26 14:40:38.835 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 14:42:39.071 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 14:44:39.254 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 14:46:39.480 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 14:52:40.720 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 14:52:58.525 ServerApp] Kernel interrupted: 533b55fc-5920-4ca2-951c-ebb517d40d95
-Exception ignored on calling ctypes callback function <bound method DataIter._next_wrapper of <xgboost.data.SingleBatchInternalIter object at 0x7f11dcbf6c50>>:
-Traceback (most recent call last):
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/xgboost/core.py", line 685, in _next_wrapper
-[I 2025-10-26 14:53:07.635 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 14:53:23.934 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 14:56:33.103 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
-[I 2025-10-26 14:56:40.767 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
-[I 2025-10-26 14:57:24.138 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 18:00:18.329 ServerApp] Saving file at /thesis/NIJ Recidivism /Exploring Recidivism.ipynb
-[I 2025-10-26 18:01:58.959 ServerApp] Connecting to kernel 533b55fc-5920-4ca2-951c-ebb517d40d95.
+[I 2026-01-25 12:27:25.380 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 12:27:25.472 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 12:27:25.563 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 12:27:33.096 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 12:27:56.076 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 13:02:25.953 ServerApp] Starting buffering for bd3133ce-1053-403f-a234-e172f6fc3c0d:daa5b38d-b43f-4c2e-b0a6-d61a7d7212ce
+[I 2026-01-25 13:02:26.413 ServerApp] Starting buffering for 2399978d-5178-4cf2-964d-b4d24bb606d3:2f6eab0b-eb4a-4288-be13-5df19f28d863
+[I 2026-01-25 13:03:57.054 ServerApp] Creating new notebook in /thesis/recidivism-causal/notebooks
+[I 2026-01-25 13:03:57.307 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/Untitled.ipynb
+[I 2026-01-25 13:03:57.354 ServerApp] Kernel started: 04ea7c6a-83a6-4acd-bcc1-a282af518f81
+[I 2026-01-25 13:03:58.024 ServerApp] Connecting to kernel 04ea7c6a-83a6-4acd-bcc1-a282af518f81.
+[I 2026-01-25 13:03:58.484 ServerApp] Connecting to kernel 2399978d-5178-4cf2-964d-b4d24bb606d3.
+[I 2026-01-25 13:03:58.546 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 13:03:58.626 ServerApp] Connecting to kernel 04ea7c6a-83a6-4acd-bcc1-a282af518f81.
+[I 2026-01-25 13:03:58.687 ServerApp] Starting buffering for bd3133ce-1053-403f-a234-e172f6fc3c0d:e0efda77-c281-4814-b26c-d4b2fd5991ed
+[I 2026-01-25 13:03:58.698 ServerApp] Starting buffering for 2399978d-5178-4cf2-964d-b4d24bb606d3:44d126b9-db5a-4b3d-8d25-01aae85ea535
+[I 2026-01-25 13:03:58.853 ServerApp] Connecting to kernel 04ea7c6a-83a6-4acd-bcc1-a282af518f81.
+[W 2026-01-25 13:04:18.518 ServerApp] 404 GET /api/contents/01_CP_FCI.ipynb?contentProviderId=undefined&content=0&hash=0&1769346258490 (cf5a8a66f84c4c22aaa0ad54964f01c9@10.131.35.1) 0.95ms referer=http://127.0.0.1:11804/notebooks/thesis/recidivism-causal/notebooks/Untitled.ipynb
+[W 2026-01-25 13:04:18.518 ServerApp] 404 GET /api/contents/01_CP_FCI.ipynb?contentProviderId=undefined&content=0&hash=0&1769346258490 (10.131.35.1): No such file or directory: 01_CP_FCI.ipynb
+[I 2026-01-25 13:04:18.551 ServerApp] Uploading file to /01_CP_FCI.ipynb
+[I 2026-01-25 13:04:19.329 ServerApp] Connecting to kernel 2399978d-5178-4cf2-964d-b4d24bb606d3.
+[I 2026-01-25 13:04:19.422 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 13:04:19.473 ServerApp] Starting buffering for 2399978d-5178-4cf2-964d-b4d24bb606d3:34924d1f-e09f-4b0f-9c52-6811989bd7f4
+[I 2026-01-25 13:04:19.499 ServerApp] Connecting to kernel 04ea7c6a-83a6-4acd-bcc1-a282af518f81.
+[I 2026-01-25 13:04:19.536 ServerApp] Starting buffering for bd3133ce-1053-403f-a234-e172f6fc3c0d:57a1887d-ddc4-48fe-9d5d-b49f76993792
+[I 2026-01-25 13:04:19.548 ServerApp] Kernel started: 94f3636b-875b-49eb-8487-d871ff5ce0d9
+[I 2026-01-25 13:04:20.100 ServerApp] Connecting to kernel 94f3636b-875b-49eb-8487-d871ff5ce0d9.
+[I 2026-01-25 13:06:19.481 ServerApp] Saving file at /01_CP_FCI.ipynb
+[I 2026-01-25 13:08:19.612 ServerApp] Saving file at /01_CP_FCI.ipynb
+[I 2026-01-25 13:10:19.810 ServerApp] Saving file at /01_CP_FCI.ipynb
+[I 2026-01-25 13:11:37.403 ServerApp] Connecting to kernel 2399978d-5178-4cf2-964d-b4d24bb606d3.
+[I 2026-01-25 13:11:37.502 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 13:11:37.539 ServerApp] Starting buffering for 2399978d-5178-4cf2-964d-b4d24bb606d3:893377cb-f0f2-483d-af77-1271ec92e66e
+[I 2026-01-25 13:11:37.571 ServerApp] Connecting to kernel 04ea7c6a-83a6-4acd-bcc1-a282af518f81.
+[I 2026-01-25 13:11:37.624 ServerApp] Starting buffering for bd3133ce-1053-403f-a234-e172f6fc3c0d:9e76a837-6e2a-4efc-ad95-07bb276a2c00
+[I 2026-01-25 13:11:37.653 ServerApp] Connecting to kernel 94f3636b-875b-49eb-8487-d871ff5ce0d9.
+[I 2026-01-25 13:11:57.722 ServerApp] Kernel shutdown: 04ea7c6a-83a6-4acd-bcc1-a282af518f81
+[W 2026-01-25 13:11:57.913 ServerApp] delete /thesis/recidivism-causal/notebooks/Untitled.ipynb
+[W 2026-01-25 13:12:19.942 ServerApp] 404 GET /api/contents/01_CP_FCI.ipynb?content=0&hash=1&contentProviderId=undefined&1769346739886 (cf5a8a66f84c4c22aaa0ad54964f01c9@10.131.35.1) 0.99ms referer=http://127.0.0.1:11804/notebooks/01_CP_FCI.ipynb
+[W 2026-01-25 13:12:19.942 ServerApp] 404 GET /api/contents/01_CP_FCI.ipynb?content=0&hash=1&contentProviderId=undefined&1769346739886 (10.131.35.1): No such file or directory: 01_CP_FCI.ipynb
+[I 2026-01-25 13:12:19.989 ServerApp] Uploading file to /01_CP_FCI.ipynb
+[I 2026-01-25 13:14:20.178 ServerApp] Saving file at /01_CP_FCI.ipynb
+[I 2026-01-25 13:16:20.371 ServerApp] Saving file at /01_CP_FCI.ipynb
+[I 2026-01-25 13:18:20.569 ServerApp] Saving file at /01_CP_FCI.ipynb
+[I 2026-01-25 13:20:20.946 ServerApp] Saving file at /01_CP_FCI.ipynb
+[I 2026-01-25 13:24:21.241 ServerApp] Saving file at /01_CP_FCI.ipynb
+[I 2026-01-25 13:29:17.998 ServerApp] Creating new notebook in /thesis/recidivism-causal/notebooks
+[I 2026-01-25 13:29:19.277 ServerApp] Connecting to kernel 2399978d-5178-4cf2-964d-b4d24bb606d3.
+[I 2026-01-25 13:29:19.364 ServerApp] Connecting to kernel bd3133ce-1053-403f-a234-e172f6fc3c0d.
+[I 2026-01-25 13:29:19.437 ServerApp] Starting buffering for 2399978d-5178-4cf2-964d-b4d24bb606d3:bb604817-e628-40d3-9ba8-4527e9169066
+[I 2026-01-25 13:29:19.439 ServerApp] Connecting to kernel 94f3636b-875b-49eb-8487-d871ff5ce0d9.
+[I 2026-01-25 13:29:19.454 ServerApp] Starting buffering for bd3133ce-1053-403f-a234-e172f6fc3c0d:7fd9c774-340d-4ef4-9a08-830c13d12617
+[I 2026-01-25 13:29:22.270 ServerApp] Kernel started: 5a474258-ce34-4f6c-aecd-b77dc5ee95a8
+[I 2026-01-25 13:29:22.897 ServerApp] Connecting to kernel 5a474258-ce34-4f6c-aecd-b77dc5ee95a8.
+[I 2026-01-25 13:31:36.896 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_CP_DAGSLAM.ipynb
+[I 2026-01-25 13:33:37.039 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_CP_DAGSLAM.ipynb
+[I 2026-01-25 13:35:37.901 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_CP_DAGSLAM.ipynb
+[I 2026-01-25 13:39:38.856 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_CP_DAGSLAM.ipynb
+[I 2026-01-25 13:41:38.984 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_CP_DAGSLAM.ipynb
+[I 2026-01-25 13:43:39.138 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_CP_DAGSLAM.ipynb

@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+recidivism-causal/code/causalexplain/
+recidivism-causal/code/dagslam/
+recidivism-causal/code/lingam/
 __pycache__/
 *.py[cod]
 *$py.class

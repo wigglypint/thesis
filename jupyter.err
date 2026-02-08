@@ -1,120 +1,482 @@
-[I 2026-01-28 17:42:49.403 ServerApp] jupyter_lsp | extension was successfully linked.
-[I 2026-01-28 17:42:49.406 ServerApp] jupyter_server_terminals | extension was successfully linked.
-[I 2026-01-28 17:42:49.408 ServerApp] jupyterlab | extension was successfully linked.
-[I 2026-01-28 17:42:49.411 ServerApp] notebook | extension was successfully linked.
-[I 2026-01-28 17:42:49.877 ServerApp] notebook_shim | extension was successfully linked.
-[I 2026-01-28 17:42:49.935 ServerApp] notebook_shim | extension was successfully loaded.
-[I 2026-01-28 17:42:49.937 ServerApp] jupyter_lsp | extension was successfully loaded.
-[I 2026-01-28 17:42:49.938 ServerApp] jupyter_server_terminals | extension was successfully loaded.
-[I 2026-01-28 17:42:49.949 LabApp] JupyterLab extension loaded from /dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/jupyterlab
-[I 2026-01-28 17:42:49.949 LabApp] JupyterLab application directory is /dcs/23/u2200504/thesis/envthesis/share/jupyter/lab
-[I 2026-01-28 17:42:49.950 LabApp] Extension Manager is 'pypi'.
-[I 2026-01-28 17:42:50.008 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2026-01-28 17:42:50.011 ServerApp] notebook | extension was successfully loaded.
-[I 2026-01-28 17:42:50.012 ServerApp] Serving notebooks from local directory: /dcs/23/u2200504
-[I 2026-01-28 17:42:50.012 ServerApp] Jupyter Server 2.17.0 is running at:
-[I 2026-01-28 17:42:50.012 ServerApp] http://tiger-03:11804/tree?token=06be76195cad4f7e299da5a7d3e41dd97d7c896d1175dbfe
-[I 2026-01-28 17:42:50.012 ServerApp]     http://127.0.0.1:11804/tree?token=06be76195cad4f7e299da5a7d3e41dd97d7c896d1175dbfe
-[I 2026-01-28 17:42:50.012 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 2026-01-28 17:42:50.019 ServerApp] 
+[I 2026-02-08 15:10:43.304 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-02-08 15:10:43.307 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-02-08 15:10:43.310 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-02-08 15:10:43.313 ServerApp] notebook | extension was successfully linked.
+[I 2026-02-08 15:10:43.820 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-02-08 15:10:43.868 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-02-08 15:10:43.870 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-02-08 15:10:43.871 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-02-08 15:10:43.882 LabApp] JupyterLab extension loaded from /dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/jupyterlab
+[I 2026-02-08 15:10:43.882 LabApp] JupyterLab application directory is /dcs/23/u2200504/thesis/envthesis/share/jupyter/lab
+[I 2026-02-08 15:10:43.883 LabApp] Extension Manager is 'pypi'.
+[I 2026-02-08 15:10:43.936 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-02-08 15:10:43.939 ServerApp] notebook | extension was successfully loaded.
+[I 2026-02-08 15:10:43.940 ServerApp] Serving notebooks from local directory: /dcs/23/u2200504
+[I 2026-02-08 15:10:43.940 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-02-08 15:10:43.940 ServerApp] http://tiger-03:11804/tree?token=d57efca311d5470db3889b4a029de2ae9cf4b04f29690dcb
+[I 2026-02-08 15:10:43.940 ServerApp]     http://127.0.0.1:11804/tree?token=d57efca311d5470db3889b4a029de2ae9cf4b04f29690dcb
+[I 2026-02-08 15:10:43.940 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-02-08 15:10:43.946 ServerApp] 
     
     To access the server, open this file in a browser:
-        file:///dcs/23/u2200504/.local/share/jupyter/runtime/jpserver-138189-open.html
+        file:///dcs/23/u2200504/.local/share/jupyter/runtime/jpserver-903703-open.html
     Or copy and paste one of these URLs:
-        http://tiger-03:11804/tree?token=06be76195cad4f7e299da5a7d3e41dd97d7c896d1175dbfe
-        http://127.0.0.1:11804/tree?token=06be76195cad4f7e299da5a7d3e41dd97d7c896d1175dbfe
-[I 2026-01-28 17:42:50.253 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
-[I 2026-01-28 17:45:15.608 ServerApp] Creating new notebook in /thesis/recidivism-causal/notebooks
-[I 2026-01-28 17:45:19.224 ServerApp] Kernel started: daf4005f-af1a-488f-818d-308ccfcb360d
-[I 2026-01-28 17:45:19.992 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[W 2026-01-28 17:45:19.992 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+        http://tiger-03:11804/tree?token=d57efca311d5470db3889b4a029de2ae9cf4b04f29690dcb
+        http://127.0.0.1:11804/tree?token=d57efca311d5470db3889b4a029de2ae9cf4b04f29690dcb
+[I 2026-02-08 15:10:44.184 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-02-08 15:17:20.633 ServerApp] Creating new notebook in /thesis/recidivism-causal/notebooks
+[I 2026-02-08 15:17:21.352 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/Untitled.ipynb
+[I 2026-02-08 15:17:21.426 ServerApp] Kernel started: fe0655dd-d0da-4f77-9ef9-ccd45775f682
+[I 2026-02-08 15:17:22.144 ServerApp] Connecting to kernel fe0655dd-d0da-4f77-9ef9-ccd45775f682.
+[W 2026-02-08 15:17:22.145 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
     Setting websocket_ping_timeout=30000
-[I 2026-01-28 17:45:20.091 ServerApp] Starting buffering for daf4005f-af1a-488f-818d-308ccfcb360d:b4c72ac0-3efd-4d18-aa14-615da385975c
-[I 2026-01-28 17:45:20.095 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-28 17:45:20.119 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-28 17:45:21.113 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-28 17:45:26.080 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-28 17:47:56.263 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 17:51:56.714 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 17:56:02.032 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-28 17:56:02.333 ServerApp] Kernel started: 8b2a87d3-13bf-494a-ba0e-06babcf7c9df
-[I 2026-01-28 17:56:03.014 ServerApp] Connecting to kernel 8b2a87d3-13bf-494a-ba0e-06babcf7c9df.
-[I 2026-01-28 17:57:58.721 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 17:59:58.803 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:01:56.657 ServerApp] Starting buffering for 8b2a87d3-13bf-494a-ba0e-06babcf7c9df:ff39b505-422e-42cd-9992-0a883c78dbd4
-[I 2026-01-28 18:01:56.686 ServerApp] Starting buffering for daf4005f-af1a-488f-818d-308ccfcb360d:2d9dd294-8588-4e0e-8430-fef5a98e4cc6
-[I 2026-01-28 18:01:57.011 ServerApp] Connecting to kernel 8b2a87d3-13bf-494a-ba0e-06babcf7c9df.
-[I 2026-01-28 18:01:57.011 ServerApp] Restoring connection for 8b2a87d3-13bf-494a-ba0e-06babcf7c9df:ff39b505-422e-42cd-9992-0a883c78dbd4
-[I 2026-01-28 18:01:57.049 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-28 18:01:57.049 ServerApp] Restoring connection for daf4005f-af1a-488f-818d-308ccfcb360d:2d9dd294-8588-4e0e-8430-fef5a98e4cc6
-[I 2026-01-28 18:01:58.898 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[W 2026-01-28 18:03:27.012 ServerApp] WebSocket ping timeout after 90000 ms.
-[W 2026-01-28 18:03:27.050 ServerApp] WebSocket ping timeout after 90000 ms.
-[I 2026-01-28 18:03:32.013 ServerApp] Starting buffering for 8b2a87d3-13bf-494a-ba0e-06babcf7c9df:ff39b505-422e-42cd-9992-0a883c78dbd4
-[I 2026-01-28 18:03:32.051 ServerApp] Starting buffering for daf4005f-af1a-488f-818d-308ccfcb360d:2d9dd294-8588-4e0e-8430-fef5a98e4cc6
-[I 2026-01-28 18:12:09.001 ServerApp] Connecting to kernel 8b2a87d3-13bf-494a-ba0e-06babcf7c9df.
-[I 2026-01-28 18:12:09.001 ServerApp] Restoring connection for 8b2a87d3-13bf-494a-ba0e-06babcf7c9df:ff39b505-422e-42cd-9992-0a883c78dbd4
-[I 2026-01-28 18:12:09.026 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-28 18:12:09.026 ServerApp] Restoring connection for daf4005f-af1a-488f-818d-308ccfcb360d:2d9dd294-8588-4e0e-8430-fef5a98e4cc6
-[I 2026-01-28 18:13:13.248 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:15:13.346 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:23:13.411 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:25:13.494 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:27:13.568 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:29:13.648 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:33:13.730 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:35:13.807 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:41:13.942 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:43:14.040 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:45:14.160 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:47:14.223 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:49:56.418 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:57:14.282 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 18:59:14.392 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 19:09:14.460 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 19:13:14.548 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 19:15:14.617 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 19:42:05.802 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 19:50:07.777 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 19:56:07.860 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 19:58:07.967 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:00:08.054 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:02:08.134 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:04:08.221 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:06:08.301 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:08:08.373 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:10:08.451 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:12:08.544 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:14:08.630 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:16:08.713 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:18:08.791 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:20:08.868 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:22:08.949 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:24:09.023 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:26:09.094 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 20:30:09.176 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 21:32:05.613 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 21:34:05.720 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 21:36:05.817 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 21:54:05.878 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 21:56:05.980 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 21:58:06.051 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 22:02:06.154 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 22:06:06.258 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-28 22:19:32.728 ServerApp] Starting buffering for daf4005f-af1a-488f-818d-308ccfcb360d:2d9dd294-8588-4e0e-8430-fef5a98e4cc6
-[I 2026-01-28 22:19:32.816 ServerApp] Starting buffering for 8b2a87d3-13bf-494a-ba0e-06babcf7c9df:ff39b505-422e-42cd-9992-0a883c78dbd4
-[I 2026-01-28 22:19:32.932 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-28 22:19:32.933 ServerApp] Restoring connection for daf4005f-af1a-488f-818d-308ccfcb360d:2d9dd294-8588-4e0e-8430-fef5a98e4cc6
-[I 2026-01-28 22:19:32.962 ServerApp] Connecting to kernel 8b2a87d3-13bf-494a-ba0e-06babcf7c9df.
-[I 2026-01-28 22:19:32.962 ServerApp] Restoring connection for 8b2a87d3-13bf-494a-ba0e-06babcf7c9df:ff39b505-422e-42cd-9992-0a883c78dbd4
-[W 2026-01-28 22:21:02.934 ServerApp] WebSocket ping timeout after 90001 ms.
-[W 2026-01-28 22:21:02.963 ServerApp] WebSocket ping timeout after 90001 ms.
-[I 2026-01-28 22:21:07.936 ServerApp] Starting buffering for daf4005f-af1a-488f-818d-308ccfcb360d:2d9dd294-8588-4e0e-8430-fef5a98e4cc6
-[I 2026-01-28 22:21:07.964 ServerApp] Starting buffering for 8b2a87d3-13bf-494a-ba0e-06babcf7c9df:ff39b505-422e-42cd-9992-0a883c78dbd4
-[I 2026-01-29 11:04:55.032 ServerApp] Connecting to kernel daf4005f-af1a-488f-818d-308ccfcb360d.
-[I 2026-01-29 11:04:55.032 ServerApp] Restoring connection for daf4005f-af1a-488f-818d-308ccfcb360d:2d9dd294-8588-4e0e-8430-fef5a98e4cc6
-[I 2026-01-29 11:05:10.436 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-29 11:15:13.340 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-29 11:25:14.321 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-29 11:27:14.406 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-01-29 11:29:14.488 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:17:22.327 ServerApp] Connecting to kernel fe0655dd-d0da-4f77-9ef9-ccd45775f682.
+[I 2026-02-08 15:17:22.466 ServerApp] Connecting to kernel fe0655dd-d0da-4f77-9ef9-ccd45775f682.
+[I 2026-02-08 15:17:30.108 ServerApp] Kernel shutdown: fe0655dd-d0da-4f77-9ef9-ccd45775f682
+[W 2026-02-08 15:17:30.347 ServerApp] delete /thesis/recidivism-causal/notebooks/Untitled.ipynb
+[I 2026-02-08 15:17:32.944 ServerApp] Kernel started: 5a323071-c272-4899-8204-1239966a1126
+[I 2026-02-08 15:17:33.532 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 15:17:33.718 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:8c4a4d4c-690c-446b-95e6-1a323764810f
+[I 2026-02-08 15:17:33.718 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 15:17:33.865 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 15:19:32.771 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:21:33.132 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:23:34.195 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:25:35.077 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:33:35.357 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:47:36.162 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:49:36.552 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:51:36.917 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:52:58.911 ServerApp] Kernel interrupted: 5a323071-c272-4899-8204-1239966a1126
+Process LokyProcess-251:
+Process LokyProcess-208:
+Process LokyProcess-220:
+Process LokyProcess-252:
+Process LokyProcess-234:
+Process LokyProcess-253:
+Process LokyProcess-200:
+Process LokyProcess-235:
+Process LokyProcess-182:
+Process LokyProcess-188:
+Process LokyProcess-230:
+Process LokyProcess-227:
+Process LokyProcess-226:
+Process LokyProcess-171:
+Process LokyProcess-241:
+Process LokyProcess-199:
+Process LokyProcess-165:
+Process LokyProcess-161:
+Process LokyProcess-159:
+Process LokyProcess-170:
+Process LokyProcess-197:
+Process LokyProcess-163:
+Process LokyProcess-154:
+Process LokyProcess-139:
+Process LokyProcess-187:
+Process LokyProcess-151:
+Process LokyProcess-212:
+Process LokyProcess-179:
+Process LokyProcess-134:
+Process LokyProcess-146:
+Process LokyProcess-152:
+Process LokyProcess-137:
+Process LokyProcess-135:
+Process LokyProcess-142:
+Process LokyProcess-167:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+Traceback (most recent call last):
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+Traceback (most recent call last):
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
+    self.run()
+    ~~~~~~~~^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
+    is_clean = worker_exit_lock.acquire(True, timeout=30)
+KeyboardInterrupt
+KeyboardInterrupt
+[I 2026-02-08 15:53:16.359 ServerApp] Kernel interrupted: 5a323071-c272-4899-8204-1239966a1126
+[I 2026-02-08 15:53:37.167 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 15:56:02.036 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
+[I 2026-02-08 15:56:02.333 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 15:56:02.333 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
+[W 2026-02-08 15:57:32.337 ServerApp] WebSocket ping timeout after 90003 ms.
+[I 2026-02-08 15:57:37.341 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
+[I 2026-02-08 17:38:37.094 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 17:38:37.094 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
+[I 2026-02-08 17:39:08.553 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 17:41:08.682 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 17:43:08.803 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 17:45:08.921 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 17:47:09.248 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 17:49:09.357 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 17:51:09.472 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 17:53:09.566 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:07:10.465 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:08:14.280 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 18:09:11.445 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:11:11.581 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:11:33.879 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 18:12:23.477 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:14:06.409 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 18:14:24.216 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:14:29.267 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 18:22:40.840 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 18:22:59.301 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
+[I 2026-02-08 18:23:04.831 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 18:23:04.966 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:133826ad-26aa-42f2-ba74-45924af128b1
+[I 2026-02-08 18:23:05.050 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 18:25:04.949 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:45:05.163 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:48:38.364 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 18:48:56.594 ServerApp] Copying 'thesis/recidivism-causal/notebooks/NIJ_gang_imputed.csv' to '/thesis/recidivism-causal/data/raw'
+[W 2026-02-08 18:49:02.266 ServerApp] delete /thesis/recidivism-causal/data/raw/NIJ_gang_imputed.csv
+[I 2026-02-08 18:49:06.206 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:51:06.338 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:53:06.437 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:55:06.566 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:57:06.679 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 18:59:06.796 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:17:13.125 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:18:14.635 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 20:18:58.201 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 20:19:14.062 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:24:47.353 ServerApp] Copying 'thesis/recidivism-causal/notebooks/NIJ_drug_imputed.csv' to '/thesis/recidivism-causal/data/raw'

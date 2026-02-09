@@ -480,3 +480,54 @@ KeyboardInterrupt
 [I 2026-02-08 20:18:58.201 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
 [I 2026-02-08 20:19:14.062 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
 [I 2026-02-08 20:24:47.353 ServerApp] Copying 'thesis/recidivism-causal/notebooks/NIJ_drug_imputed.csv' to '/thesis/recidivism-causal/data/raw'
+[I 2026-02-08 20:27:17.036 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:28:31.880 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 20:29:18.039 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:35:18.140 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:37:18.258 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:39:18.394 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:41:18.537 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:50:31.861 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 20:51:18.692 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:53:18.861 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 20:55:18.970 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[W 2026-02-08 20:55:45.814 ServerApp] delete /thesis/recidivism-causal/notebooks/NIJ_prison_offense_imputed.csv
+[I 2026-02-08 21:05:19.196 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 21:21:19.366 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 21:23:19.481 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 21:25:19.621 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 21:35:20.038 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 21:39:20.339 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 21:41:20.503 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-08 22:53:45.597 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
+[I 2026-02-08 22:53:45.780 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 22:53:45.780 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
+[W 2026-02-08 22:55:15.781 ServerApp] WebSocket ping timeout after 90001 ms.
+[I 2026-02-08 22:55:20.785 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
+[I 2026-02-08 22:57:57.418 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-08 22:57:57.419 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
+[W 2026-02-08 22:59:27.419 ServerApp] WebSocket ping timeout after 90000 ms.
+[I 2026-02-08 22:59:32.423 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
+[I 2026-02-09 13:35:40.411 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-09 13:35:40.412 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
+[I 2026-02-09 13:39:03.386 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 13:41:03.605 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 13:47:03.982 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 13:49:04.217 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 13:54:28.428 ServerApp] Kernel interrupted: 5a323071-c272-4899-8204-1239966a1126
+[I 2026-02-09 13:55:05.068 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:12:55.340 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:20:55.567 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:27:59.722 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-09 15:30:56.019 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:32:56.566 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:34:57.075 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:36:57.590 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:37:13.464 ServerApp] Copying 'thesis/recidivism-causal/notebooks/NIJ_prison_offense_imputed.csv' to '/thesis/recidivism-causal/data/raw'
+[I 2026-02-09 15:38:43.573 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
+[I 2026-02-09 15:39:08.327 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:42:03.417 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:44:03.961 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:46:05.410 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:48:05.794 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-09 15:50:06.401 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb

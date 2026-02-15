@@ -1,533 +1,351 @@
-[I 2026-02-08 15:10:43.304 ServerApp] jupyter_lsp | extension was successfully linked.
-[I 2026-02-08 15:10:43.307 ServerApp] jupyter_server_terminals | extension was successfully linked.
-[I 2026-02-08 15:10:43.310 ServerApp] jupyterlab | extension was successfully linked.
-[I 2026-02-08 15:10:43.313 ServerApp] notebook | extension was successfully linked.
-[I 2026-02-08 15:10:43.820 ServerApp] notebook_shim | extension was successfully linked.
-[I 2026-02-08 15:10:43.868 ServerApp] notebook_shim | extension was successfully loaded.
-[I 2026-02-08 15:10:43.870 ServerApp] jupyter_lsp | extension was successfully loaded.
-[I 2026-02-08 15:10:43.871 ServerApp] jupyter_server_terminals | extension was successfully loaded.
-[I 2026-02-08 15:10:43.882 LabApp] JupyterLab extension loaded from /dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/jupyterlab
-[I 2026-02-08 15:10:43.882 LabApp] JupyterLab application directory is /dcs/23/u2200504/thesis/envthesis/share/jupyter/lab
-[I 2026-02-08 15:10:43.883 LabApp] Extension Manager is 'pypi'.
-[I 2026-02-08 15:10:43.936 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2026-02-08 15:10:43.939 ServerApp] notebook | extension was successfully loaded.
-[I 2026-02-08 15:10:43.940 ServerApp] Serving notebooks from local directory: /dcs/23/u2200504
-[I 2026-02-08 15:10:43.940 ServerApp] Jupyter Server 2.17.0 is running at:
-[I 2026-02-08 15:10:43.940 ServerApp] http://tiger-03:11804/tree?token=d57efca311d5470db3889b4a029de2ae9cf4b04f29690dcb
-[I 2026-02-08 15:10:43.940 ServerApp]     http://127.0.0.1:11804/tree?token=d57efca311d5470db3889b4a029de2ae9cf4b04f29690dcb
-[I 2026-02-08 15:10:43.940 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 2026-02-08 15:10:43.946 ServerApp] 
+[I 2026-02-15 16:11:25.195 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-02-15 16:11:25.198 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-02-15 16:11:25.201 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-02-15 16:11:25.203 ServerApp] notebook | extension was successfully linked.
+[I 2026-02-15 16:11:25.692 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-02-15 16:11:26.044 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-02-15 16:11:26.045 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-02-15 16:11:26.046 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-02-15 16:11:26.065 LabApp] JupyterLab extension loaded from /dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/jupyterlab
+[I 2026-02-15 16:11:26.065 LabApp] JupyterLab application directory is /dcs/23/u2200504/thesis/envthesis/share/jupyter/lab
+[I 2026-02-15 16:11:26.066 LabApp] Extension Manager is 'pypi'.
+[I 2026-02-15 16:11:26.125 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-02-15 16:11:26.129 ServerApp] notebook | extension was successfully loaded.
+[I 2026-02-15 16:11:26.129 ServerApp] Serving notebooks from local directory: /dcs/23/u2200504
+[I 2026-02-15 16:11:26.129 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-02-15 16:11:26.129 ServerApp] http://tiger-02:11804/tree?token=e93ad5f1c917a9579ec17aea0da4b368cf924b376cc5fe33
+[I 2026-02-15 16:11:26.129 ServerApp]     http://127.0.0.1:11804/tree?token=e93ad5f1c917a9579ec17aea0da4b368cf924b376cc5fe33
+[I 2026-02-15 16:11:26.129 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-02-15 16:11:26.137 ServerApp] 
     
     To access the server, open this file in a browser:
-        file:///dcs/23/u2200504/.local/share/jupyter/runtime/jpserver-903703-open.html
+        file:///dcs/23/u2200504/.local/share/jupyter/runtime/jpserver-915656-open.html
     Or copy and paste one of these URLs:
-        http://tiger-03:11804/tree?token=d57efca311d5470db3889b4a029de2ae9cf4b04f29690dcb
-        http://127.0.0.1:11804/tree?token=d57efca311d5470db3889b4a029de2ae9cf4b04f29690dcb
-[I 2026-02-08 15:10:44.184 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
-[I 2026-02-08 15:17:20.633 ServerApp] Creating new notebook in /thesis/recidivism-causal/notebooks
-[I 2026-02-08 15:17:21.352 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/Untitled.ipynb
-[I 2026-02-08 15:17:21.426 ServerApp] Kernel started: fe0655dd-d0da-4f77-9ef9-ccd45775f682
-[I 2026-02-08 15:17:22.144 ServerApp] Connecting to kernel fe0655dd-d0da-4f77-9ef9-ccd45775f682.
-[W 2026-02-08 15:17:22.145 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+        http://tiger-02:11804/tree?token=e93ad5f1c917a9579ec17aea0da4b368cf924b376cc5fe33
+        http://127.0.0.1:11804/tree?token=e93ad5f1c917a9579ec17aea0da4b368cf924b376cc5fe33
+[I 2026-02-15 16:11:26.368 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-02-15 16:18:15.085 ServerApp] Kernel started: 65f423f4-0fc5-4ab6-a684-e9eaaaed6783
+[I 2026-02-15 16:18:15.793 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[W 2026-02-15 16:18:15.794 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
     Setting websocket_ping_timeout=30000
-[I 2026-02-08 15:17:22.327 ServerApp] Connecting to kernel fe0655dd-d0da-4f77-9ef9-ccd45775f682.
-[I 2026-02-08 15:17:22.466 ServerApp] Connecting to kernel fe0655dd-d0da-4f77-9ef9-ccd45775f682.
-[I 2026-02-08 15:17:30.108 ServerApp] Kernel shutdown: fe0655dd-d0da-4f77-9ef9-ccd45775f682
-[W 2026-02-08 15:17:30.347 ServerApp] delete /thesis/recidivism-causal/notebooks/Untitled.ipynb
-[I 2026-02-08 15:17:32.944 ServerApp] Kernel started: 5a323071-c272-4899-8204-1239966a1126
-[I 2026-02-08 15:17:33.532 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 15:17:33.718 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:8c4a4d4c-690c-446b-95e6-1a323764810f
-[I 2026-02-08 15:17:33.718 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 15:17:33.865 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 15:19:32.771 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:21:33.132 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:23:34.195 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:25:35.077 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:33:35.357 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:47:36.162 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:49:36.552 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:51:36.917 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:52:58.911 ServerApp] Kernel interrupted: 5a323071-c272-4899-8204-1239966a1126
-Process LokyProcess-251:
-Process LokyProcess-208:
-Process LokyProcess-220:
-Process LokyProcess-252:
-Process LokyProcess-234:
-Process LokyProcess-253:
-Process LokyProcess-200:
-Process LokyProcess-235:
-Process LokyProcess-182:
-Process LokyProcess-188:
-Process LokyProcess-230:
-Process LokyProcess-227:
-Process LokyProcess-226:
-Process LokyProcess-171:
-Process LokyProcess-241:
-Process LokyProcess-199:
-Process LokyProcess-165:
-Process LokyProcess-161:
-Process LokyProcess-159:
-Process LokyProcess-170:
-Process LokyProcess-197:
-Process LokyProcess-163:
-Process LokyProcess-154:
-Process LokyProcess-139:
-Process LokyProcess-187:
-Process LokyProcess-151:
-Process LokyProcess-212:
-Process LokyProcess-179:
-Process LokyProcess-134:
-Process LokyProcess-146:
-Process LokyProcess-152:
-Process LokyProcess-137:
-Process LokyProcess-135:
-Process LokyProcess-142:
-Process LokyProcess-167:
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-Traceback (most recent call last):
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-KeyboardInterrupt
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-KeyboardInterrupt
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-Traceback (most recent call last):
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-Traceback (most recent call last):
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-KeyboardInterrupt
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-KeyboardInterrupt
-KeyboardInterrupt
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 313, in _bootstrap
-    self.run()
-    ~~~~~~~~^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-  File "/dcs/23/u2200504/.localpython/lib/python3.13/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/dcs/23/u2200504/thesis/envthesis/lib/python3.13/site-packages/joblib/externals/loky/process_executor.py", line 477, in _process_worker
-    is_clean = worker_exit_lock.acquire(True, timeout=30)
-KeyboardInterrupt
-KeyboardInterrupt
-[I 2026-02-08 15:53:16.359 ServerApp] Kernel interrupted: 5a323071-c272-4899-8204-1239966a1126
-[I 2026-02-08 15:53:37.167 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 15:56:02.036 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
-[I 2026-02-08 15:56:02.333 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 15:56:02.333 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
-[W 2026-02-08 15:57:32.337 ServerApp] WebSocket ping timeout after 90003 ms.
-[I 2026-02-08 15:57:37.341 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
-[I 2026-02-08 17:38:37.094 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 17:38:37.094 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
-[I 2026-02-08 17:39:08.553 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 17:41:08.682 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 17:43:08.803 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 17:45:08.921 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 17:47:09.248 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 17:49:09.357 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 17:51:09.472 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 17:53:09.566 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:07:10.465 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:08:14.280 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 18:09:11.445 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:11:11.581 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:11:33.879 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 18:12:23.477 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:14:06.409 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 18:14:24.216 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:14:29.267 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 18:22:40.840 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 18:22:59.301 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:7fed2838-85ce-4418-a68a-0cd992d9c113
-[I 2026-02-08 18:23:04.831 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 18:23:04.966 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:133826ad-26aa-42f2-ba74-45924af128b1
-[I 2026-02-08 18:23:05.050 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 18:25:04.949 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:45:05.163 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:48:38.364 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 18:48:56.594 ServerApp] Copying 'thesis/recidivism-causal/notebooks/NIJ_gang_imputed.csv' to '/thesis/recidivism-causal/data/raw'
-[W 2026-02-08 18:49:02.266 ServerApp] delete /thesis/recidivism-causal/data/raw/NIJ_gang_imputed.csv
-[I 2026-02-08 18:49:06.206 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:51:06.338 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:53:06.437 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:55:06.566 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:57:06.679 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 18:59:06.796 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:17:13.125 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:18:14.635 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 20:18:58.201 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 20:19:14.062 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:24:47.353 ServerApp] Copying 'thesis/recidivism-causal/notebooks/NIJ_drug_imputed.csv' to '/thesis/recidivism-causal/data/raw'
-[I 2026-02-08 20:27:17.036 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:28:31.880 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 20:29:18.039 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:35:18.140 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:37:18.258 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:39:18.394 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:41:18.537 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:50:31.861 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 20:51:18.692 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:53:18.861 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 20:55:18.970 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[W 2026-02-08 20:55:45.814 ServerApp] delete /thesis/recidivism-causal/notebooks/NIJ_prison_offense_imputed.csv
-[I 2026-02-08 21:05:19.196 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 21:21:19.366 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 21:23:19.481 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 21:25:19.621 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 21:35:20.038 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 21:39:20.339 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 21:41:20.503 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-08 22:53:45.597 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
-[I 2026-02-08 22:53:45.780 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 22:53:45.780 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
-[W 2026-02-08 22:55:15.781 ServerApp] WebSocket ping timeout after 90001 ms.
-[I 2026-02-08 22:55:20.785 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
-[I 2026-02-08 22:57:57.418 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-08 22:57:57.419 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
-[W 2026-02-08 22:59:27.419 ServerApp] WebSocket ping timeout after 90000 ms.
-[I 2026-02-08 22:59:32.423 ServerApp] Starting buffering for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
-[I 2026-02-09 13:35:40.411 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-09 13:35:40.412 ServerApp] Restoring connection for 5a323071-c272-4899-8204-1239966a1126:a4d709d8-7e27-4cfb-93ac-7196986354eb
-[I 2026-02-09 13:39:03.386 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 13:41:03.605 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 13:47:03.982 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 13:49:04.217 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 13:54:28.428 ServerApp] Kernel interrupted: 5a323071-c272-4899-8204-1239966a1126
-[I 2026-02-09 13:55:05.068 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:12:55.340 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:20:55.567 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:27:59.722 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-09 15:30:56.019 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:32:56.566 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:34:57.075 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:36:57.590 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:37:13.464 ServerApp] Copying 'thesis/recidivism-causal/notebooks/NIJ_prison_offense_imputed.csv' to '/thesis/recidivism-causal/data/raw'
-[I 2026-02-09 15:38:43.573 ServerApp] Connecting to kernel 5a323071-c272-4899-8204-1239966a1126.
-[I 2026-02-09 15:39:08.327 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:42:03.417 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:44:03.961 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:46:05.410 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:48:05.794 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
-[I 2026-02-09 15:50:06.401 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/NIJ_data_engineering.ipynb
+[I 2026-02-15 16:18:15.877 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:18:15.920 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:18:23.112 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:20:14.945 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:27:39.557 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:27:39.813 ServerApp] Kernel started: 9503e03f-154d-4388-93e4-e7bb717b1139
+[I 2026-02-15 16:27:40.486 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:28:16.068 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:29:10.084 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:29:10.223 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:29:11.326 ServerApp] Kernel started: 87a457a5-c744-4aed-9c9a-4809a56249a3
+[I 2026-02-15 16:29:11.925 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:29:40.141 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/01_CP_FCI.ipynb
+[I 2026-02-15 16:30:17.075 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:31:41.073 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/01_CP_FCI.ipynb
+[I 2026-02-15 16:32:46.784 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:2a19f128-395c-4244-a922-723e6318f074
+[I 2026-02-15 16:34:18.068 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:36:18.198 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:38:18.303 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:40:18.416 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:42:18.527 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:44:18.645 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:46:18.780 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:48:18.881 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:49:49.600 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:49:49.652 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:49:49.699 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:49:49.766 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:32c7fa7f-3fb0-4354-8ad5-f3206cb7f8f2
+[I 2026-02-15 16:49:49.861 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:49:52.611 ServerApp] Kernel interrupted: 9503e03f-154d-4388-93e4-e7bb717b1139
+[I 2026-02-15 16:49:55.754 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:845b2477-5347-44ec-9ee5-b5ca8f51216b
+[I 2026-02-15 16:51:29.911 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:51:29.967 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:51:30.030 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:51:30.080 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:51:30.165 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:51:30.226 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:51:30.253 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:df22b3ab-45de-46d2-a437-685cf3b13377
+[I 2026-02-15 16:51:36.944 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:51:37.007 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:51:37.059 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:51:37.105 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:95f882f6-254d-4551-8fd4-b6a8e8f92303
+[I 2026-02-15 16:51:39.423 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:51:39.470 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:51:39.521 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:2a938ebd-a73a-469b-aa41-1f54ffd56962
+[I 2026-02-15 16:51:39.522 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:51:43.921 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:51:43.974 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:51:44.028 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:51:44.038 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:af1f8030-cc6d-4996-a51b-59633a083181
+[I 2026-02-15 16:51:48.154 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:51:48.202 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:51:48.265 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:51:48.274 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:41faa7ca-476a-47fb-84e7-b1a851798270
+[I 2026-02-15 16:51:50.317 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 16:51:50.368 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 16:51:50.416 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 16:51:50.474 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:15608c93-dcba-4902-ace6-c43fc49c56a3
+[I 2026-02-15 16:54:18.990 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 16:56:20.017 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:02:21.026 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:08:21.143 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:10:21.296 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:24:22.004 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:26:22.120 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:28:22.251 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:30:22.954 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:31:22.265 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:31:22.320 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:31:22.365 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:31:22.426 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:7395b53e-f587-430d-8ef0-9900db3c53a0
+[I 2026-02-15 17:31:29.807 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:31:29.860 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:31:29.924 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:31:29.950 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:f64acf0b-9d81-4ab3-8513-961c4c1180b2
+[I 2026-02-15 17:31:48.921 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:31:48.990 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:31:49.048 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:31:49.080 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:1ade305f-133c-4499-8458-1ccf4a6514ab
+[I 2026-02-15 17:32:23.967 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[W 2026-02-15 17:32:28.760 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__admission_bias-checkpoint__DAGBagM.png
+[W 2026-02-15 17:32:28.764 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__admission_bias__DAGBagM.png
+[W 2026-02-15 17:32:28.768 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__hospital_data__DAGBagM.png
+[W 2026-02-15 17:32:28.772 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__hiring_bias__DAGBagM.png
+[W 2026-02-15 17:32:28.776 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__loan_approval_bias__DAGBagM.png
+[W 2026-02-15 17:32:28.780 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__loan_approval_bias-checkpoint__DAGBagM.png
+[W 2026-02-15 17:32:28.789 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__movie_success_bias__DAGBagM.png
+[W 2026-02-15 17:32:28.793 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/casual_effect__device_failure_data__DAGBagM.png
+[W 2026-02-15 17:32:28.796 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/casual_effect__machine_maintenance_data__DAGBagM.png
+[W 2026-02-15 17:32:28.800 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__movie_success_bias-checkpoint__DAGBagM.png
+[W 2026-02-15 17:32:28.803 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/casual_effect__patient_treatment_data__DAGBagM.png
+[W 2026-02-15 17:32:28.807 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/casual_effect__marketing_offer_data__DAGBagM.png
+[W 2026-02-15 17:32:28.813 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__causal_direction_iv_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.816 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__clinical_trial_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.819 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/casual_effect__student_tutoring_data__DAGBagM.png
+[W 2026-02-15 17:32:28.823 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__environment_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.827 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__ecommerce_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.830 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__marketing_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.838 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__clinical_trial_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.842 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__education_performance_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.845 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__investment_outcome_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.850 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__manufacturing_quality_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.867 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__dag_structure_markequi_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.871 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__climate_impact_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.874 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__exercise_heart_rate_calories__DAGBagM.png
+[W 2026-02-15 17:32:28.878 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__sleep_alertness_productivity__DAGBagM.png
+[W 2026-02-15 17:32:28.882 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__study_comprehension_testscore__DAGBagM.png
+[W 2026-02-15 17:32:28.885 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__web_traffic_revenue__DAGBagM.png
+[W 2026-02-15 17:32:28.904 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__arthritis_trial__DAGBagM.png
+[W 2026-02-15 17:32:28.908 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__cardio_trial__DAGBagM.png
+[W 2026-02-15 17:32:28.911 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__cholesterol_trial__DAGBagM.png
+[W 2026-02-15 17:32:28.914 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__diabetes_trial__DAGBagM.png
+[W 2026-02-15 17:32:28.917 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/mediation_outcome_confounder__nutrition_program_study__DAGBagM.png
+[W 2026-02-15 17:32:28.926 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/mediation_outcome_confounder__language_learning_study__DAGBagM.png
+[W 2026-02-15 17:32:28.929 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/mediation_outcome_confounder__exercise_intervention_study__DAGBagM.png
+[W 2026-02-15 17:32:28.944 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__domain_shift_sem__DAGBagM.png
+[W 2026-02-15 17:32:28.947 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/mediation_outcome_confounder__rehabilitation_program_study__DAGBagM.png
+[W 2026-02-15 17:32:28.950 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/mediation_outcome_confounder__student_intervention_study__DAGBagM.png
+[W 2026-02-15 17:32:28.954 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__depression_symptom_reduction__DAGBagM.png
+[W 2026-02-15 17:32:28.958 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__arthritis_pain_reduction__DAGBagM.png
+[W 2026-02-15 17:32:28.982 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__infection_bacteria_reduction__DAGBagM.png
+[W 2026-02-15 17:32:28.985 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__hypertension_bp_reduction-checkpoint__DAGBagM.png
+[W 2026-02-15 17:32:28.989 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__hypertension_bp_reduction__DAGBagM.png
+[W 2026-02-15 17:32:28.992 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__moderation_effect_sem-checkpoint__DAGBagM.png
+[W 2026-02-15 17:32:28.995 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__infection_bacteria_reduction-checkpoint__DAGBagM.png
+[W 2026-02-15 17:32:28.999 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__moderation_effect_sem__DAGBagM.png
+[W 2026-02-15 17:32:29.023 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__bridge_integrity__DAGBagM.png
+[W 2026-02-15 17:32:29.027 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__factory_monitoring__DAGBagM.png
+[W 2026-02-15 17:32:29.031 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__stress_sem__DAGBagM.png
+[W 2026-02-15 17:32:29.034 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/observational_vs_experimental_reasoning__diet_adherence_study__DAGBagM.png
+[W 2026-02-15 17:32:29.037 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__patient_recovery__DAGBagM.png
+[W 2026-02-15 17:32:29.041 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__network_health__DAGBagM.png
+[W 2026-02-15 17:32:29.054 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/observational_vs_experimental_reasoning__gym_membership_study__DAGBagM.png
+[W 2026-02-15 17:32:29.058 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/observational_vs_experimental_reasoning__meditation_app_study__DAGBagM.png
+[W 2026-02-15 17:32:29.061 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/population_shift__population_shift_sem__DAGBagM.png
+[W 2026-02-15 17:32:29.064 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/observational_vs_experimental_reasoning__study_schedule_study__DAGBagM.png
+[W 2026-02-15 17:32:29.073 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/observational_vs_experimental_reasoning__observational_sleep_study__DAGBagM.png
+[W 2026-02-15 17:32:29.076 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/population_shift__population_shift_variant1__DAGBagM.png
+[W 2026-02-15 17:32:29.082 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/population_shift__population_shift_variant2__DAGBagM.png
+[W 2026-02-15 17:32:29.086 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/population_shift__population_shift_variant3__DAGBagM.png
+[W 2026-02-15 17:32:29.089 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/population_shift__population_shift_variant4__DAGBagM.png
+[W 2026-02-15 17:32:29.093 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_variant1__DAGBagM.png
+[W 2026-02-15 17:32:29.097 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_dataset__DAGBagM.png
+[W 2026-02-15 17:32:29.110 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_variant2__DAGBagM.png
+[W 2026-02-15 17:32:29.113 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_variant3__DAGBagM.png
+[W 2026-02-15 17:32:29.117 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/simpson_paradox__medicine_variant1__DAGBagM.png
+[W 2026-02-15 17:32:29.120 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/simpson_paradox__medicine__DAGBagM.png
+[W 2026-02-15 17:32:29.123 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_variant4__DAGBagM.png
+[W 2026-02-15 17:32:29.126 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/simpson_paradox__medicine_variant2__DAGBagM.png
+[W 2026-02-15 17:32:29.132 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/simpson_paradox__medicine_variant3__DAGBagM.png
+[W 2026-02-15 17:32:29.156 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_stability_sem__DAGBagM.png
+[W 2026-02-15 17:32:29.159 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_variant1__DAGBagM.png
+[W 2026-02-15 17:32:29.162 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/simpson_paradox__medicine_variant4__DAGBagM.png
+[W 2026-02-15 17:32:29.166 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_variant2__DAGBagM.png
+[W 2026-02-15 17:32:29.169 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_variant3__DAGBagM.png
+[W 2026-02-15 17:32:29.178 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__economic_stimulus__DAGBagM.png
+[W 2026-02-15 17:32:29.189 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__education_subsidy_policy__DAGBagM.png
+[W 2026-02-15 17:32:29.193 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_variant4__DAGBagM.png
+[W 2026-02-15 17:32:29.196 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__infrastructure_spending_policy__DAGBagM.png
+[W 2026-02-15 17:32:29.199 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__job_training_policy__DAGBagM.png
+[W 2026-02-15 17:32:29.215 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__tax_incentive_policy__DAGBagM.png
+[I 2026-02-15 17:34:24.085 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:36:20.604 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:36:20.657 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:36:20.728 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:36:20.747 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:cb617661-b6ad-42e6-a8b1-e4191a511372
+[I 2026-02-15 17:36:24.946 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:36:47.060 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:36:47.107 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:36:47.158 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:36:47.188 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:9f8f46d1-e4d7-45c2-b23e-863cefd1c907
+[I 2026-02-15 17:36:53.555 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:36:53.606 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:36:53.649 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:d89b1c80-6461-40e4-96ff-d32508ccee9d
+[I 2026-02-15 17:36:53.662 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:37:00.947 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:37:00.996 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:37:01.048 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:37:01.079 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:4f4d2253-637f-461a-8f1b-8d17dc4c4c29
+[I 2026-02-15 17:37:09.491 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:37:09.542 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:37:09.589 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:37:09.629 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:419fdcd5-954c-4dbd-9e7a-ec3478c9955c
+[W 2026-02-15 17:38:20.833 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__loan_approval_bias__DAGBagM.png
+[W 2026-02-15 17:38:20.843 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__hospital_data__DAGBagM.png
+[W 2026-02-15 17:38:20.846 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__hiring_bias__DAGBagM.png
+[W 2026-02-15 17:38:20.854 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__admission_bias__DAGBagM.png
+[W 2026-02-15 17:38:20.858 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__admission_bias-checkpoint__DAGBagM.png
+[W 2026-02-15 17:38:20.861 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__loan_approval_bias-checkpoint__DAGBagM.png
+[W 2026-02-15 17:38:20.865 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__movie_success_bias__DAGBagM.png
+[W 2026-02-15 17:38:20.869 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/berkson_paradox__movie_success_bias-checkpoint__DAGBagM.png
+[W 2026-02-15 17:38:20.873 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/casual_effect__device_failure_data__DAGBagM.png
+[W 2026-02-15 17:38:20.877 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__causal_direction_iv_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.884 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/casual_effect__student_tutoring_data__DAGBagM.png
+[W 2026-02-15 17:38:20.888 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__ecommerce_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.893 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__clinical_trial_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.897 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__environment_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.900 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/causal_direction_iv__marketing_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.905 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__climate_impact_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.909 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__clinical_trial_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.913 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__education_performance_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.917 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__investment_outcome_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.923 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/counterfactual_reasoning__manufacturing_quality_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.929 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__dag_structure_markequi_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.932 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__study_comprehension_testscore__DAGBagM.png
+[W 2026-02-15 17:38:20.936 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__exercise_heart_rate_calories__DAGBagM.png
+[W 2026-02-15 17:38:20.940 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__sleep_alertness_productivity__DAGBagM.png
+[W 2026-02-15 17:38:20.943 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/dag_structure_markequi__web_traffic_revenue__DAGBagM.png
+[W 2026-02-15 17:38:20.948 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__arthritis_trial__DAGBagM.png
+[W 2026-02-15 17:38:20.951 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__cardio_trial__DAGBagM.png
+[W 2026-02-15 17:38:20.956 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__diabetes_trial__DAGBagM.png
+[W 2026-02-15 17:38:20.963 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__domain_shift_sem__DAGBagM.png
+[W 2026-02-15 17:38:20.967 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/domain_shift__cholesterol_trial__DAGBagM.png
+[W 2026-02-15 17:38:20.970 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/mediation_outcome_confounder__exercise_intervention_study__DAGBagM.png
+[W 2026-02-15 17:38:20.974 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/mediation_outcome_confounder__language_learning_study__DAGBagM.png
+[W 2026-02-15 17:38:20.977 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__arthritis_pain_reduction__DAGBagM.png
+[W 2026-02-15 17:38:20.981 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/mediation_outcome_confounder__nutrition_program_study__DAGBagM.png
+[W 2026-02-15 17:38:20.984 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__depression_symptom_reduction__DAGBagM.png
+[W 2026-02-15 17:38:20.988 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__hypertension_bp_reduction__DAGBagM.png
+[W 2026-02-15 17:38:20.991 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__hypertension_bp_reduction-checkpoint__DAGBagM.png
+[W 2026-02-15 17:38:20.996 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__infection_bacteria_reduction-checkpoint__DAGBagM.png
+[W 2026-02-15 17:38:21.002 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__infection_bacteria_reduction__DAGBagM.png
+[W 2026-02-15 17:38:21.007 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__moderation_effect_sem__DAGBagM.png
+[W 2026-02-15 17:38:21.010 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/moderation_effect__moderation_effect_sem-checkpoint__DAGBagM.png
+[W 2026-02-15 17:38:21.014 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__bridge_integrity__DAGBagM.png
+[W 2026-02-15 17:38:21.017 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__factory_monitoring__DAGBagM.png
+[W 2026-02-15 17:38:21.021 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__network_health__DAGBagM.png
+[W 2026-02-15 17:38:21.029 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__patient_recovery__DAGBagM.png
+[W 2026-02-15 17:38:21.034 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/necessity_sufficiency__stress_sem__DAGBagM.png
+[W 2026-02-15 17:38:21.037 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_dataset__DAGBagM.png
+[W 2026-02-15 17:38:21.041 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_variant1__DAGBagM.png
+[W 2026-02-15 17:38:21.044 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_variant3__DAGBagM.png
+[W 2026-02-15 17:38:21.047 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_variant2__DAGBagM.png
+[W 2026-02-15 17:38:21.053 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/sequential_mediator__sequential_mediation_variant4__DAGBagM.png
+[W 2026-02-15 17:38:21.057 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_stability_sem__DAGBagM.png
+[W 2026-02-15 17:38:21.061 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_variant1__DAGBagM.png
+[W 2026-02-15 17:38:21.066 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_variant3__DAGBagM.png
+[W 2026-02-15 17:38:21.070 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_variant2__DAGBagM.png
+[W 2026-02-15 17:38:21.073 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/temporal_stability__temporal_variant4__DAGBagM.png
+[W 2026-02-15 17:38:21.078 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__economic_stimulus__DAGBagM.png
+[W 2026-02-15 17:38:21.081 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__education_subsidy_policy__DAGBagM.png
+[W 2026-02-15 17:38:21.086 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__job_training_policy__DAGBagM.png
+[W 2026-02-15 17:38:21.090 ServerApp] /dcs/23/u2200504/thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__job_training_policy__DAGBagM.png doesn't exist
+[W 2026-02-15 17:38:21.093 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__infrastructure_spending_policy__DAGBagM.png
+[W 2026-02-15 17:38:21.097 ServerApp] delete /thesis/recidivism-causal/results/graphs_DAGBagM/treatment_mediator__tax_incentive_policy__DAGBagM.png
+[I 2026-02-15 17:38:25.938 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:38:31.490 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:38:31.539 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:38:31.628 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:38:31.641 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:8ec9ffcd-3912-4d26-be0b-4b66cdaabe20
+[I 2026-02-15 17:38:39.537 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:38:39.588 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:38:39.640 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:38:39.647 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:04da311f-785b-4444-a381-aea329b53024
+[I 2026-02-15 17:38:56.422 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:38:56.471 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:38:56.529 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:38:56.546 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:a928d6fe-c6b1-49fb-88cc-db933eef281b
+[I 2026-02-15 17:39:03.097 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:39:03.154 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:39:03.222 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:39:03.239 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:2cbd5f14-4a6d-420d-b392-98e94860c111
+[I 2026-02-15 17:39:43.047 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:39:43.102 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:39:43.158 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:39:43.185 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:83b05e4a-d812-4028-be1e-6c208a13a6f3
+[I 2026-02-15 17:39:46.566 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:39:46.617 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:39:46.679 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:39:46.709 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:5f58366f-a9e7-4843-a1ca-4bf2f1f41673
+[I 2026-02-15 17:39:50.781 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:39:50.835 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:39:50.888 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:941b20fe-47bc-41c5-9a2e-a52518de633e
+[I 2026-02-15 17:39:50.899 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:40:02.362 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:40:02.438 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:40:02.494 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:40:02.524 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:773a2549-761c-4bb6-8d7d-5c19521b461a
+[I 2026-02-15 17:40:05.618 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:40:05.676 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:40:05.725 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:40:05.727 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:dd066e8e-a4e2-4861-bdfe-f84a9392f6cd
+[I 2026-02-15 17:40:14.013 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:40:14.094 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:40:14.152 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:40:14.163 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:e9a48db0-0bfa-417a-8292-f8b5c2944816
+[I 2026-02-15 17:40:14.264 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:40:25.222 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:90ccbcfb-a421-4194-b466-facdfca5e5dc
+[I 2026-02-15 17:40:26.941 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/03_CP_DAGBagM.ipynb
+[I 2026-02-15 17:40:33.302 ServerApp] Kernel interrupted: 87a457a5-c744-4aed-9c9a-4809a56249a3
+[I 2026-02-15 17:40:37.714 ServerApp] Kernel interrupted: 87a457a5-c744-4aed-9c9a-4809a56249a3
+[I 2026-02-15 17:40:44.053 ServerApp] Starting buffering for 87a457a5-c744-4aed-9c9a-4809a56249a3:74b30768-5a05-4b49-9bb9-10621ae8ed70
+[I 2026-02-15 17:40:47.119 ServerApp] Starting buffering for 65f423f4-0fc5-4ab6-a684-e9eaaaed6783:c8bb9867-cf85-41be-836b-a2e59d3ffa65
+[I 2026-02-15 17:44:46.674 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:44:46.725 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:44:46.781 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:44:46.831 ServerApp] Starting buffering for 65f423f4-0fc5-4ab6-a684-e9eaaaed6783:2d9fbcf7-1664-4927-99c5-8ddd9879a5c0
+[I 2026-02-15 17:44:46.841 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:5ec37bdd-330d-4114-9475-3eb7ff985a27
+[I 2026-02-15 17:44:46.919 ServerApp] Starting buffering for 87a457a5-c744-4aed-9c9a-4809a56249a3:109f5426-e885-47bc-b2a2-ad2ba92df94a
+[I 2026-02-15 17:44:46.977 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:44:50.330 ServerApp] Starting buffering for 65f423f4-0fc5-4ab6-a684-e9eaaaed6783:1a319a4e-0ac6-4821-b991-9801cd16a990
+[I 2026-02-15 17:44:54.341 ServerApp] Creating new notebook in /thesis/recidivism-causal/notebooks
+[I 2026-02-15 17:44:54.479 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/Untitled.ipynb
+[I 2026-02-15 17:44:54.552 ServerApp] Kernel started: 5a64ea15-a72b-4a33-92df-bcf1237293be
+[I 2026-02-15 17:44:55.185 ServerApp] Connecting to kernel 5a64ea15-a72b-4a33-92df-bcf1237293be.
+[I 2026-02-15 17:44:55.312 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:44:55.369 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:44:55.398 ServerApp] Starting buffering for 65f423f4-0fc5-4ab6-a684-e9eaaaed6783:2a56f066-7db6-4e7c-b0d6-52510d91c41f
+[I 2026-02-15 17:44:55.411 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:bb7cecc9-a3c7-4535-aff4-3efb0d407922
+[I 2026-02-15 17:44:55.412 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:44:55.452 ServerApp] Starting buffering for 87a457a5-c744-4aed-9c9a-4809a56249a3:f98a39e8-f372-44c0-acaf-ddb6de0c7750
+[I 2026-02-15 17:44:55.471 ServerApp] Connecting to kernel 5a64ea15-a72b-4a33-92df-bcf1237293be.
+[I 2026-02-15 17:44:55.528 ServerApp] Connecting to kernel 5a64ea15-a72b-4a33-92df-bcf1237293be.
+[I 2026-02-15 17:45:22.114 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.
+[I 2026-02-15 17:45:22.201 ServerApp] Connecting to kernel 9503e03f-154d-4388-93e4-e7bb717b1139.
+[I 2026-02-15 17:45:22.279 ServerApp] Starting buffering for 65f423f4-0fc5-4ab6-a684-e9eaaaed6783:3741667a-725a-4bb6-bddd-7ff154745fc0
+[I 2026-02-15 17:45:22.280 ServerApp] Connecting to kernel 87a457a5-c744-4aed-9c9a-4809a56249a3.
+[I 2026-02-15 17:45:22.325 ServerApp] Starting buffering for 9503e03f-154d-4388-93e4-e7bb717b1139:c69d631d-190c-4ecf-ad0d-c4fa86776188
+[I 2026-02-15 17:45:22.354 ServerApp] Connecting to kernel 5a64ea15-a72b-4a33-92df-bcf1237293be.
+[I 2026-02-15 17:45:22.377 ServerApp] Starting buffering for 87a457a5-c744-4aed-9c9a-4809a56249a3:704b94a9-1894-4b21-9355-341e55eb63d8
+[I 2026-02-15 17:45:22.430 ServerApp] Connecting to kernel 65f423f4-0fc5-4ab6-a684-e9eaaaed6783.

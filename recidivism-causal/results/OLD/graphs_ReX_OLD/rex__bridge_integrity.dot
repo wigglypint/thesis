@@ -1,0 +1,8 @@
+strict digraph {
+failureprobability;
+materialstress;
+loadpressure;
+vibrationfrequency;
+failureprobability -> vibrationfrequency;
+failureprobability -> loadpressure;
+}

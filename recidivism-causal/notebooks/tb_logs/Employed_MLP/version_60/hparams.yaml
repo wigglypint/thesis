@@ -1,0 +1,10 @@
+activation: relu
+batch_size: 57
+dropout: 0.06356145270999543
+input_size: 2
+layers_dimensions:
+- 9
+- 32
+- 12
+loss: binary_crossentropy
+lr: 0.04458079844934693

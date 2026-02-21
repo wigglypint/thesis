@@ -1,0 +1,12 @@
+activation: linear
+batch_size: 21
+dropout: 0.07134972878834756
+input_size: 2
+layers_dimensions:
+- 65
+- 117
+- 4
+- 41
+- 43
+loss: binary_crossentropy
+lr: 0.04133739809587825

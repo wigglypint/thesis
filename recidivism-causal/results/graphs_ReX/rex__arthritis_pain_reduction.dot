@@ -1,0 +1,7 @@
+strict digraph {
+osteoarthritisseverity;
+analgesicdosagemg;
+painscorereduction;
+painscorereduction -> osteoarthritisseverity;
+painscorereduction -> analgesicdosagemg;
+}

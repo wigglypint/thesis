@@ -1,0 +1,14 @@
+strict digraph {
+consumerdemandindex;
+irrelevantindex;
+taxincentive;
+salesgrowth;
+consumerspending;
+baselineretailsales;
+consumerdemandindex -> irrelevantindex;
+irrelevantindex -> salesgrowth;
+salesgrowth -> taxincentive;
+consumerspending -> irrelevantindex;
+consumerspending -> salesgrowth;
+baselineretailsales -> irrelevantindex;
+}

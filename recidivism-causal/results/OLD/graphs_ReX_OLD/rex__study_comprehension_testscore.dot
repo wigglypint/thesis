@@ -1,0 +1,7 @@
+strict digraph {
+comprehensionlevel;
+testscore;
+studyhours;
+comprehensionlevel -> testscore;
+testscore -> studyhours;
+}

@@ -1,0 +1,6 @@
+strict digraph {
+income;
+age;
+visits;
+purchases;
+}

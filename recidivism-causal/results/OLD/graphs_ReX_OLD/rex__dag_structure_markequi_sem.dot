@@ -1,0 +1,7 @@
+strict digraph {
+advertisingspend;
+brandawareness;
+sales;
+brandawareness -> sales;
+sales -> advertisingspend;
+}

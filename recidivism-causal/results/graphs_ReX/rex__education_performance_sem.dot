@@ -1,0 +1,8 @@
+strict digraph {
+coursegrade;
+examscore;
+studentaptitude;
+studyhours;
+examscore -> coursegrade;
+studentaptitude -> studyhours;
+}

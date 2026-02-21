@@ -1,0 +1,8 @@
+strict digraph {
+drugdosemg;
+bloodconcentration;
+baselinehealth;
+therapeuticscore;
+bloodconcentration -> therapeuticscore;
+baselinehealth -> drugdosemg;
+}

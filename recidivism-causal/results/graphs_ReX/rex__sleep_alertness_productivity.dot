@@ -1,0 +1,7 @@
+strict digraph {
+alertnessscore;
+productivityindex;
+sleephours;
+productivityindex -> alertnessscore;
+sleephours -> productivityindex;
+}

@@ -1,0 +1,8 @@
+activation: selu
+batch_size: 104
+dropout: 0.2937971074246689
+input_size: 4
+layers_dimensions:
+- 97
+loss: mse
+lr: 0.02546989239267122

@@ -1,0 +1,15 @@
+strict digraph {
+baselinegraduationrate;
+subsidypolicy;
+irrelevantindex;
+schoolenrollment;
+educationqualityindex;
+graduationrate;
+baselinegraduationrate -> irrelevantindex;
+subsidypolicy -> graduationrate;
+irrelevantindex -> graduationrate;
+schoolenrollment -> irrelevantindex;
+schoolenrollment -> educationqualityindex;
+schoolenrollment -> graduationrate;
+educationqualityindex -> irrelevantindex;
+}

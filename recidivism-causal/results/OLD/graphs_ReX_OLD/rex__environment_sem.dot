@@ -1,0 +1,8 @@
+strict digraph {
+fertilizerkg;
+rainfallmm;
+cropyield;
+soilquality;
+rainfallmm -> soilquality;
+cropyield -> fertilizerkg;
+}

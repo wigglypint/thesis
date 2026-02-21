@@ -1,0 +1,8 @@
+strict digraph {
+uptimereliability;
+packetlossrate;
+networklatency;
+signalvibration;
+uptimereliability -> packetlossrate;
+uptimereliability -> networklatency;
+}

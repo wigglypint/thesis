@@ -1,0 +1,10 @@
+activation: relu
+batch_size: 92
+dropout: 0.26328831942761544
+input_size: 4
+layers_dimensions:
+- 51
+- 103
+- 90
+loss: mse
+lr: 0.03459793725671823

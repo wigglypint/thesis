@@ -1,0 +1,8 @@
+activation: selu
+batch_size: 119
+dropout: 0.27483751365929027
+input_size: 2
+layers_dimensions:
+- 87
+loss: binary_crossentropy
+lr: 0.020835747027087802

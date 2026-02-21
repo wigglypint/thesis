@@ -1,0 +1,16 @@
+strict digraph {
+failure;
+baselineerror;
+patchv2;
+randomnoise;
+postpatcherror;
+patchv1;
+usagehours;
+baselineerror -> usagehours;
+patchv2 -> usagehours;
+patchv2 -> failure;
+randomnoise -> usagehours;
+postpatcherror -> usagehours;
+patchv1 -> usagehours;
+patchv1 -> postpatcherror;
+}

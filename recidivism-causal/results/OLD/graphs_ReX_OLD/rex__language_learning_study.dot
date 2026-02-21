@@ -1,0 +1,15 @@
+strict digraph {
+priorlanguageexperience;
+finalproficiency;
+tookinteractivecourse;
+motivationlevel;
+baselineproficiency;
+weeklypracticehours;
+unrelatedrandomvariable;
+priorlanguageexperience -> finalproficiency;
+finalproficiency -> baselineproficiency;
+tookinteractivecourse -> baselineproficiency;
+tookinteractivecourse -> weeklypracticehours;
+tookinteractivecourse -> finalproficiency;
+weeklypracticehours -> finalproficiency;
+}

@@ -1,0 +1,9 @@
+strict digraph {
+age;
+bloodpressurereduction;
+drugdose;
+frailty;
+age -> bloodpressurereduction;
+age -> drugdose;
+drugdose -> bloodpressurereduction;
+}

@@ -3,7 +3,7 @@
 #SBATCH --job-name=zoe_jupyter     # Job name for tracking
 #SBATCH --partition=tiger      # Partition you wish to use
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=128      # Number of CPU threads used by your job
+#SBATCH --cpus-per-task=32      # Number of CPU threads used by your job
 #SBATCH --mem-per-cpu=3000     # Memory needed per thread (i.e. 3000MB * 6 threads = 60GB)
 #SBATCH --time=2-00:00:00        # Job time limit set to 12 hours
 #

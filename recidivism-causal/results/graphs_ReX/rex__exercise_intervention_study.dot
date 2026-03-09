@@ -1,11 +1,12 @@
 strict digraph {
-motivationindex;
+baselinefitnesslevel;
 weeklyexercisehours;
 enrolledinexerciseprogram;
+motivationindex;
 baselineendurancescore;
-unrelatedrandomvariable;
-baselinefitnesslevel;
 finalendurancescore;
+unrelatedrandomvariable;
+baselinefitnesslevel -> finalendurancescore;
 weeklyexercisehours -> baselineendurancescore;
 weeklyexercisehours -> finalendurancescore;
 enrolledinexerciseprogram -> motivationindex;
@@ -13,5 +14,4 @@ enrolledinexerciseprogram -> weeklyexercisehours;
 enrolledinexerciseprogram -> finalendurancescore;
 enrolledinexerciseprogram -> baselinefitnesslevel;
 baselineendurancescore -> finalendurancescore;
-baselinefitnesslevel -> finalendurancescore;
 }

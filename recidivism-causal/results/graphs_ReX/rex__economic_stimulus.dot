@@ -1,14 +1,14 @@
 strict digraph {
-stimuluspolicy;
-marketvolatility;
 baselineeconomicgrowth;
 consumerconfidence;
+marketvolatility;
 unrelatedindicator;
 employmentrate;
-marketvolatility -> unrelatedindicator;
+stimuluspolicy;
 baselineeconomicgrowth -> unrelatedindicator;
 consumerconfidence -> employmentrate;
 consumerconfidence -> unrelatedindicator;
+marketvolatility -> unrelatedindicator;
 unrelatedindicator -> employmentrate;
 employmentrate -> stimuluspolicy;
 }

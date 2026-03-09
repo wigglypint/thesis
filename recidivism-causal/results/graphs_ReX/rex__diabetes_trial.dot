@@ -1,8 +1,8 @@
 strict digraph {
-baselineglucose;
+glucosereduction;
 age;
 drugdose;
-glucosereduction;
+baselineglucose;
 age -> drugdose;
 age -> glucosereduction;
 drugdose -> glucosereduction;

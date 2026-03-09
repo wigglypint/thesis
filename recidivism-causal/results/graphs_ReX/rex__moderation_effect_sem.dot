@@ -1,7 +1,7 @@
 strict digraph {
-severity;
-dosage;
 reduction;
+dosage;
+severity;
 reduction -> severity;
 reduction -> dosage;
 }

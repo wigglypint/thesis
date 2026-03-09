@@ -1,8 +1,8 @@
 strict digraph {
-portfolioreturn;
 investmentamount;
-risktolerance;
 investorsatisfaction;
-portfolioreturn -> investorsatisfaction;
+risktolerance;
+portfolioreturn;
 risktolerance -> investmentamount;
+portfolioreturn -> investorsatisfaction;
 }

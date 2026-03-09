@@ -1,7 +1,7 @@
 strict digraph {
-metabolicrate;
 age;
 drugdose;
+metabolicrate;
 cholesterolreduction;
 age -> drugdose;
 age -> cholesterolreduction;

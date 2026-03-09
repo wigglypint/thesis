@@ -1,10 +1,9 @@
 strict digraph {
-promospendk;
-brandawareness;
 adspendk;
+promospendk;
 sales;
-promospendk -> brandawareness;
+brandawareness;
+adspendk -> brandawareness;
 promospendk -> sales;
-brandawareness -> adspendk;
 brandawareness -> sales;
 }

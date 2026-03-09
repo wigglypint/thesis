@@ -1,9 +1,9 @@
 strict digraph {
+failurerisk;
+machinetemperature;
 vibrationintensity;
 hydraulicpressure;
-machinetemperature;
-failurerisk;
-hydraulicpressure -> failurerisk;
 failurerisk -> machinetemperature;
 failurerisk -> vibrationintensity;
+hydraulicpressure -> failurerisk;
 }

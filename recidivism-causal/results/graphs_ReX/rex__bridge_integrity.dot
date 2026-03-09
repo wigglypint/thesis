@@ -1,7 +1,7 @@
 strict digraph {
-vibrationfrequency;
-loadpressure;
 materialstress;
+loadpressure;
+vibrationfrequency;
 failureprobability;
 loadpressure -> failureprobability;
 failureprobability -> materialstress;

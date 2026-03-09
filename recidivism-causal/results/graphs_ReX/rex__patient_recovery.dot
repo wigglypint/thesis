@@ -1,8 +1,8 @@
 strict digraph {
-activitylevel;
 treatmentdosage;
 recoveryscore;
 inflammationlevel;
+activitylevel;
 recoveryscore -> treatmentdosage;
 inflammationlevel -> recoveryscore;
 }

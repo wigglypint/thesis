@@ -2,6 +2,7 @@
 recidivism-causal/code/causalexplain/
 recidivism-causal/code/dagslam/
 recidivism-causal/code/lingam/
+recidivism-causal/notebooks/01_NIJ_FCI_PT1.ipynb
 __pycache__/
 *.py[cod]
 *$py.class

@@ -421,3 +421,110 @@
 [I 2026-03-20 22:42:51.007 ServerApp] Starting buffering for bdd7c17a-2316-4eef-8449-ce9965ae7a74:251bff60-bdac-4eb8-8dfc-b9d752182a8a
 [W 2026-03-20 22:43:20.151 ServerApp] delete /thesis/recidivism-causal/notebooks/NIJ_graph_ReX_PRUNED.png
 [I 2026-03-20 22:43:34.187 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/06_NIJ_REX.ipynb
+[I 2026-03-20 22:45:45.431 ServerApp] Starting buffering for d85becf1-aa4c-4b2f-80df-bbeea784bd3a:5fd60a4a-8950-4902-b0f0-41fb2d985a5b
+[I 2026-03-20 22:45:54.279 ServerApp] Connecting to kernel 86bf66df-d68b-4ac3-b8fd-89fbfb291beb.
+[I 2026-03-20 22:45:54.354 ServerApp] Connecting to kernel d85becf1-aa4c-4b2f-80df-bbeea784bd3a.
+[I 2026-03-20 22:45:54.424 ServerApp] Connecting to kernel bdd7c17a-2316-4eef-8449-ce9965ae7a74.
+[I 2026-03-20 22:45:54.466 ServerApp] Starting buffering for 86bf66df-d68b-4ac3-b8fd-89fbfb291beb:457beb43-2063-4f12-8361-400596e0cabe
+[I 2026-03-20 22:45:54.515 ServerApp] Starting buffering for d85becf1-aa4c-4b2f-80df-bbeea784bd3a:7057bc90-b0c2-48c8-9189-2318fd059c01
+[I 2026-03-20 22:45:54.543 ServerApp] Starting buffering for bdd7c17a-2316-4eef-8449-ce9965ae7a74:ab00f36a-bd01-4f5d-8483-94e181779f0a
+[I 2026-03-20 22:45:54.565 ServerApp] Connecting to kernel 86bf66df-d68b-4ac3-b8fd-89fbfb291beb.
+[I 2026-03-20 22:46:12.196 ServerApp] Starting buffering for 86bf66df-d68b-4ac3-b8fd-89fbfb291beb:0de5c02f-ef94-4690-8e99-6e09708c7979
+[I 2026-03-20 22:46:14.860 ServerApp] Connecting to kernel 86bf66df-d68b-4ac3-b8fd-89fbfb291beb.
+[I 2026-03-20 22:46:14.913 ServerApp] Connecting to kernel d85becf1-aa4c-4b2f-80df-bbeea784bd3a.
+[I 2026-03-20 22:46:14.973 ServerApp] Connecting to kernel bdd7c17a-2316-4eef-8449-ce9965ae7a74.
+[I 2026-03-20 22:46:15.026 ServerApp] Starting buffering for 86bf66df-d68b-4ac3-b8fd-89fbfb291beb:65063035-1f41-4592-ac93-f763ba795911
+[I 2026-03-20 22:46:15.026 ServerApp] Starting buffering for d85becf1-aa4c-4b2f-80df-bbeea784bd3a:4b136cc1-447c-4c29-9bae-531ddbfbf735
+[I 2026-03-20 22:46:15.070 ServerApp] Starting buffering for bdd7c17a-2316-4eef-8449-ce9965ae7a74:e152343e-0a15-4b74-9e06-de278aef581c
+[I 2026-03-20 22:46:15.102 ServerApp] Kernel started: afc1a0a3-b22a-4020-9da4-9509880b4e34
+[I 2026-03-20 22:46:15.690 ServerApp] Connecting to kernel afc1a0a3-b22a-4020-9da4-9509880b4e34.
+[I 2026-03-20 22:46:26.238 ServerApp] Starting buffering for afc1a0a3-b22a-4020-9da4-9509880b4e34:d31c6253-aa0b-499e-8084-ff98929007d7
+[I 2026-03-20 22:46:29.610 ServerApp] Connecting to kernel 86bf66df-d68b-4ac3-b8fd-89fbfb291beb.
+[I 2026-03-20 22:46:29.681 ServerApp] Connecting to kernel d85becf1-aa4c-4b2f-80df-bbeea784bd3a.
+[I 2026-03-20 22:46:29.717 ServerApp] Starting buffering for 86bf66df-d68b-4ac3-b8fd-89fbfb291beb:173b3cbc-2676-47e9-92e7-f0833a8a7935
+[I 2026-03-20 22:46:29.735 ServerApp] Connecting to kernel bdd7c17a-2316-4eef-8449-ce9965ae7a74.
+[I 2026-03-20 22:46:29.788 ServerApp] Connecting to kernel afc1a0a3-b22a-4020-9da4-9509880b4e34.
+[I 2026-03-20 22:46:29.789 ServerApp] Starting buffering for d85becf1-aa4c-4b2f-80df-bbeea784bd3a:c4a9b107-6969-40a5-99c3-a2520e7943a0
+[I 2026-03-20 22:46:29.816 ServerApp] Starting buffering for bdd7c17a-2316-4eef-8449-ce9965ae7a74:4fda8c9e-af59-4c22-8b71-ed4f1fdbbe40
+[I 2026-03-20 22:46:29.851 ServerApp] Kernel started: 59ffaa6a-f950-4123-a2bf-4e929aec0052
+[I 2026-03-20 22:46:29.861 ServerApp] Starting buffering for afc1a0a3-b22a-4020-9da4-9509880b4e34:a5a8f372-3f02-4592-96da-4c0a160d5cf9
+[I 2026-03-20 22:46:30.317 ServerApp] Connecting to kernel 59ffaa6a-f950-4123-a2bf-4e929aec0052.
+[I 2026-03-20 22:46:49.798 ServerApp] Starting buffering for 59ffaa6a-f950-4123-a2bf-4e929aec0052:cc521926-bd2a-4d64-b111-523d62b2e0f2
+[I 2026-03-20 22:46:53.645 ServerApp] Connecting to kernel 86bf66df-d68b-4ac3-b8fd-89fbfb291beb.
+[I 2026-03-20 22:46:53.706 ServerApp] Connecting to kernel d85becf1-aa4c-4b2f-80df-bbeea784bd3a.
+[I 2026-03-20 22:46:53.768 ServerApp] Connecting to kernel bdd7c17a-2316-4eef-8449-ce9965ae7a74.
+[I 2026-03-20 22:46:53.790 ServerApp] Starting buffering for 86bf66df-d68b-4ac3-b8fd-89fbfb291beb:312f16f0-55b6-4e59-947c-ba252e88ec05
+[I 2026-03-20 22:46:53.794 ServerApp] Starting buffering for d85becf1-aa4c-4b2f-80df-bbeea784bd3a:ead76253-c1f3-4742-bb97-ef7d4daf676f
+[I 2026-03-20 22:46:53.829 ServerApp] Connecting to kernel 59ffaa6a-f950-4123-a2bf-4e929aec0052.
+[I 2026-03-20 22:46:53.857 ServerApp] Starting buffering for bdd7c17a-2316-4eef-8449-ce9965ae7a74:f22c2a4e-6c23-4d2c-a3c1-f201db1f4867
+[I 2026-03-20 22:46:53.960 ServerApp] Starting buffering for 59ffaa6a-f950-4123-a2bf-4e929aec0052:6c80a7e7-a1bf-45b0-8078-3ff9f885da61
+[I 2026-03-20 22:46:53.962 ServerApp] Connecting to kernel afc1a0a3-b22a-4020-9da4-9509880b4e34.
+[I 2026-03-20 22:46:53.972 ServerApp] Kernel started: 54b2110f-70b5-44bb-b602-23e5e79bd46a
+[I 2026-03-20 22:46:54.003 ServerApp] Starting buffering for afc1a0a3-b22a-4020-9da4-9509880b4e34:a86ee30d-b542-47d3-a9b9-34ef1e079cc1
+[I 2026-03-20 22:46:54.459 ServerApp] Connecting to kernel 54b2110f-70b5-44bb-b602-23e5e79bd46a.
+[I 2026-03-20 22:47:14.286 ServerApp] Starting buffering for 54b2110f-70b5-44bb-b602-23e5e79bd46a:26845066-2fa2-4713-b29a-457e106028ef
+[I 2026-03-20 22:47:19.312 ServerApp] Connecting to kernel 86bf66df-d68b-4ac3-b8fd-89fbfb291beb.
+[I 2026-03-20 22:47:19.385 ServerApp] Connecting to kernel d85becf1-aa4c-4b2f-80df-bbeea784bd3a.
+[I 2026-03-20 22:47:19.421 ServerApp] Starting buffering for 86bf66df-d68b-4ac3-b8fd-89fbfb291beb:5b52f2b7-b45f-41c3-b8cb-983adc48f1d1
+[I 2026-03-20 22:47:19.462 ServerApp] Connecting to kernel bdd7c17a-2316-4eef-8449-ce9965ae7a74.
+[I 2026-03-20 22:47:19.521 ServerApp] Connecting to kernel afc1a0a3-b22a-4020-9da4-9509880b4e34.
+[I 2026-03-20 22:47:19.541 ServerApp] Starting buffering for d85becf1-aa4c-4b2f-80df-bbeea784bd3a:b242c600-4972-4678-ae45-97c3b332a08a
+[I 2026-03-20 22:47:19.576 ServerApp] Connecting to kernel 59ffaa6a-f950-4123-a2bf-4e929aec0052.
+[I 2026-03-20 22:47:19.595 ServerApp] Starting buffering for bdd7c17a-2316-4eef-8449-ce9965ae7a74:e4480450-a733-4473-8ca4-328a757d50d2
+[I 2026-03-20 22:47:19.613 ServerApp] Starting buffering for afc1a0a3-b22a-4020-9da4-9509880b4e34:ee49320b-4c4c-4bfb-9bc2-57f7d7a95798
+[I 2026-03-20 22:47:19.632 ServerApp] Connecting to kernel 54b2110f-70b5-44bb-b602-23e5e79bd46a.
+[I 2026-03-20 22:47:19.634 ServerApp] Kernel started: 1967321d-30f6-4f43-86da-75ae352f9559
+[I 2026-03-20 22:47:19.677 ServerApp] Starting buffering for 59ffaa6a-f950-4123-a2bf-4e929aec0052:1dfd1655-b298-4252-9878-861b7f3ade30
+[I 2026-03-20 22:47:19.720 ServerApp] Starting buffering for 54b2110f-70b5-44bb-b602-23e5e79bd46a:d9dfc285-34c0-46ef-90c9-88730673179f
+[I 2026-03-20 22:47:20.204 ServerApp] Connecting to kernel 1967321d-30f6-4f43-86da-75ae352f9559.
+[I 2026-03-20 22:47:29.822 ServerApp] Starting buffering for 1967321d-30f6-4f43-86da-75ae352f9559:36ffb26d-7702-430a-a748-a36782eede07
+[I 2026-03-20 22:47:35.130 ServerApp] Kernel shutdown: 86bf66df-d68b-4ac3-b8fd-89fbfb291beb
+[I 2026-03-20 22:47:35.132 ServerApp] Kernel shutdown: afc1a0a3-b22a-4020-9da4-9509880b4e34
+[I 2026-03-20 22:47:35.132 ServerApp] Kernel shutdown: bdd7c17a-2316-4eef-8449-ce9965ae7a74
+[I 2026-03-20 22:47:35.132 ServerApp] Kernel shutdown: d85becf1-aa4c-4b2f-80df-bbeea784bd3a
+[I 2026-03-20 22:47:35.132 ServerApp] Kernel shutdown: 54b2110f-70b5-44bb-b602-23e5e79bd46a
+[I 2026-03-20 22:47:35.132 ServerApp] Kernel shutdown: 59ffaa6a-f950-4123-a2bf-4e929aec0052
+[I 2026-03-20 22:47:35.265 ServerApp] Kernel shutdown: 1967321d-30f6-4f43-86da-75ae352f9559
+[I 2026-03-21 19:21:01.107 ServerApp] Kernel started: b302165e-5edd-4672-9e28-11308bfeff58
+[I 2026-03-21 19:21:01.847 ServerApp] Connecting to kernel b302165e-5edd-4672-9e28-11308bfeff58.
+[I 2026-03-21 19:21:01.936 ServerApp] Starting buffering for b302165e-5edd-4672-9e28-11308bfeff58:bfe56dd3-051f-423b-a1fa-a584f755f10a
+[I 2026-03-21 19:21:01.937 ServerApp] Connecting to kernel b302165e-5edd-4672-9e28-11308bfeff58.
+[I 2026-03-21 19:21:02.078 ServerApp] Connecting to kernel b302165e-5edd-4672-9e28-11308bfeff58.
+[I 2026-03-21 19:23:16.768 ServerApp] Starting buffering for b302165e-5edd-4672-9e28-11308bfeff58:c5f1c2fe-22f0-4353-bf04-a0b3bac6ec8d
+[I 2026-03-21 19:23:16.838 ServerApp] Connecting to kernel b302165e-5edd-4672-9e28-11308bfeff58.
+[I 2026-03-21 19:23:16.949 ServerApp] Starting buffering for b302165e-5edd-4672-9e28-11308bfeff58:7ba50198-a556-4bc0-8ba9-7906841f0b35
+[I 2026-03-21 19:26:00.141 ServerApp] Kernel shutdown: b302165e-5edd-4672-9e28-11308bfeff58
+[I 2026-03-21 19:26:15.888 ServerApp] Copying 'thesis/recidivism-causal/notebooks/02_NIJ_DAGSLAM.ipynb' to '/thesis/recidivism-causal/notebooks'
+[I 2026-03-21 19:26:32.518 ServerApp] Kernel started: 040f371c-82d5-4830-b803-d3f50205a615
+[I 2026-03-21 19:26:33.126 ServerApp] Connecting to kernel 040f371c-82d5-4830-b803-d3f50205a615.
+[I 2026-03-21 19:26:33.215 ServerApp] Connecting to kernel 040f371c-82d5-4830-b803-d3f50205a615.
+[I 2026-03-21 19:26:33.300 ServerApp] Connecting to kernel 040f371c-82d5-4830-b803-d3f50205a615.
+[I 2026-03-21 19:34:32.499 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 19:36:32.673 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 19:38:32.833 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[W 2026-03-21 19:46:03.215 ServerApp] WebSocket ping timeout after 119971 ms.
+[I 2026-03-21 19:46:08.219 ServerApp] Starting buffering for 040f371c-82d5-4830-b803-d3f50205a615:616ea43b-23c1-4edb-8e2c-1b9a7834c7fd
+[I 2026-03-21 20:32:59.493 ServerApp] Connecting to kernel 040f371c-82d5-4830-b803-d3f50205a615.
+[I 2026-03-21 20:32:59.494 ServerApp] Restoring connection for 040f371c-82d5-4830-b803-d3f50205a615:616ea43b-23c1-4edb-8e2c-1b9a7834c7fd
+[I 2026-03-21 20:34:19.171 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[W 2026-03-21 20:44:59.497 ServerApp] WebSocket ping timeout after 119951 ms.
+[I 2026-03-21 20:45:04.499 ServerApp] Starting buffering for 040f371c-82d5-4830-b803-d3f50205a615:616ea43b-23c1-4edb-8e2c-1b9a7834c7fd
+[I 2026-03-21 20:49:15.883 ServerApp] Connecting to kernel 040f371c-82d5-4830-b803-d3f50205a615.
+[I 2026-03-21 20:49:15.883 ServerApp] Restoring connection for 040f371c-82d5-4830-b803-d3f50205a615:616ea43b-23c1-4edb-8e2c-1b9a7834c7fd
+[I 2026-03-21 20:56:20.120 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 20:58:21.010 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 21:00:21.177 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 21:49:58.973 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 21:51:58.162 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 21:53:59.307 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 21:56:50.971 ServerApp] Connecting to kernel 040f371c-82d5-4830-b803-d3f50205a615.
+[I 2026-03-21 21:57:59.596 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 21:59:59.851 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 22:02:00.017 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 22:03:48.260 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 22:05:49.126 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 22:06:42.548 ServerApp] Saving file at /thesis/recidivism-causal/notebooks/02_self_compat_DAGSLAM.ipynb
+[I 2026-03-21 22:07:19.126 ServerApp] Copying 'thesis/recidivism-causal/notebooks/03_NIJ_DAGBagM.ipynb' to '/thesis/recidivism-causal/notebooks'
+[I 2026-03-21 22:07:37.081 ServerApp] Connecting to kernel 040f371c-82d5-4830-b803-d3f50205a615.
+[I 2026-03-21 22:07:37.358 ServerApp] Kernel started: 453b90db-3919-4b68-a16c-422aa79217f0
+[I 2026-03-21 22:07:38.126 ServerApp] Connecting to kernel 453b90db-3919-4b68-a16c-422aa79217f0.
